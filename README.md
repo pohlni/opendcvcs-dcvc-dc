@@ -1,7 +1,7 @@
 # opendcvcs-dcvc-dc
 
 A from-scratch reproduction of **DCVC-DC** (Li et al., *Neural Video Compression
-with Diverse Contexts*, CVPR 2023): a complete, bug-fixed **training pipeline**
+with Diverse Contexts*, CVPR 2023): a **training pipeline**
 together with **pretrained weights**.
 
 The official DCVC-DC release ships inference code and weights but **no training
